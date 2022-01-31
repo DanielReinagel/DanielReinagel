@@ -1,5 +1,5 @@
-👨🏻‍💻 About Me 
-👋 Hi, I’m Daniel 
+👨🏻‍💻 About Me
+👋 Hi, I’m Daniel
 💻 Full Stack Web Developer
 🤔 Exploring new technologies and developing software solutions.
 🌱 Currently working on a back-end project with Javascript | Express.js | Knex.js
