@@ -1,3 +1,20 @@
+👨🏻‍💻 About Me 
+👋 Hi, I’m Daniel 
+💻 Full Stack Web Developer
+🤔 Exploring new technologies and developing software solutions.
+🌱 Currently working on a back-end project with Javascript | Express.js | Knex.js
+⚡ Open for project collaboration
+🌐 Connect with me on <a href="https://www.linkedin.com/in/danielreinagel/">LinkedIn</a>
+🎮 If I’m not programming, you can find me gaming
+
+🛠️ Tech Stack
+
+💻 Javascript | CSS | HTML 
+🌐 SQL | Node.js | React.js | Axios.js
+🔧 Git | API | PostgreSQL
+
+
+
 Hi, I am Daniel Reinagel.
 
 As long as I remember I've been exposed to coding in some form or another. My dad and couple brothers of mine are coders. After working my first job in retail, I felt I needed something more.
