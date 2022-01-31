@@ -17,7 +17,7 @@
 🎮 If I’m not programming, you can find me gaming
 
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack:
 
 
 💻 Javascript | CSS | HTML
