@@ -1,19 +1,32 @@
+## Skimming Version
+
 👨🏻‍💻 About Me
+
 👋 Hi, I’m Daniel
+
 💻 Full Stack Web Developer
+
 🤔 Exploring new technologies and developing software solutions.
+
 🌱 Currently working on a back-end project with Javascript | Express.js | Knex.js
+
 ⚡ Open for project collaboration
+
 🌐 Connect with me on <a href="https://www.linkedin.com/in/danielreinagel/">LinkedIn</a>
+
 🎮 If I’m not programming, you can find me gaming
+
 
 🛠️ Tech Stack
 
-💻 Javascript | CSS | HTML 
+
+💻 Javascript | CSS | HTML
+
 🌐 SQL | Node.js | React.js | Axios.js
+
 🔧 Git | API | PostgreSQL
 
-
+## Paragraph Version
 
 Hi, I am Daniel Reinagel.
 
