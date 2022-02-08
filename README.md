@@ -30,7 +30,7 @@
 
 Hi, I am Daniel Reinagel.
 
-As long as I remember I've been exposed to coding in some form or another. My dad and couple brothers of mine are coders. After working my first job in retail, I felt I needed something more.
+Born and raised in Silicon Valley I grew up around a culture that embraced technology, my dad worked for Cisco Systems and got us our first computer before I was even born! My family is very mathematically gifted, and being home schooled gave us an edge in cultivating sharp logic skills. In fact, my dad is so gifted mathematically that he tested 15 points above the maximum when taking his SATs, when he called in to ask about it, they informed him he was so high above the standard deviation that he'd in fact earned the score! On top of that four of my brothers are all highly proficient programmers. I too decided to persue a career in computing, focusing on web development. I believe in it's ability to reach customers, coordinate information, and provide services to each user simultaneously. When selecting how to build my skills and learn the craft, I investigated options, and ultimately decided to work with BloomTech because of their accelerated format, hyper focused skillset, and renowned results. I haven't been disappointed!
 
 Now I'm searching for a company I can empower with my ability to identify and solve problems in existing code bases, my ability to quickly learn new tools and skills, and most of all, my ability to work under and support a team in the ways they request, not just the ways I believe would be most useful. 
 
